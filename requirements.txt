@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+networkx
+mrg32k3a
+qiskit==0.46.0
+qiskit-aer==0.14.1
